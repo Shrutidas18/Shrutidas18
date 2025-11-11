@@ -1,6 +1,6 @@
 ## Hi, I'm Shruti 
 
-💻 A third-year Computer Science B Tech Student.<br>
+💻 A fourth-year Computer Science B Tech Student.<br>
 🚀 Building smooth digital experiences with code, coffee, and curiosity. ☕<br>
 🎨 Frontend enthusiast crafting responsive, aesthetic, and functional web apps.<br>
 🌸 I create Mockups, Designs and Prototypes to keep in touch with creativity.<br>
