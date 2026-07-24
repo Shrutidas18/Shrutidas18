@@ -9,7 +9,7 @@ Building clean, intuitive, and meaningful digital experiences through code and c
 </p>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnd5a2ZqZHU2cDJ0ZjVyb2V6NTZ5bHRnZGRuYmhqcjZxdmJobzZvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6XX4V0O8a0xdS/giphy.gif" width="680" alt="Coding GIF"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnd5a2ZqZHU2cDJ0ZjVyb2V6NTZ5bHRnZGRuYmhqcjZxdmJobzZvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6XX4V0O8a0xdS/giphy.gif" width="280" alt="Coding GIF"/>
 </p>
 
 ---
