@@ -30,17 +30,17 @@ Building clean, intuitive, and meaningful digital experiences through code and c
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/shruti-das-8b8191247/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/shruti_das_19/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="45" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="35" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.quora.com/profile/Shruti-Das-127" target="_blank">
-    <img src="https://cdn.simpleicons.org/quora/B92B27" height="45" />
+    <img src="https://cdn.simpleicons.org/quora/B92B27" height="35" />
   </a>
 </p>
 
@@ -50,19 +50,19 @@ Building clean, intuitive, and meaningful digital experiences through code and c
 
 ### Languages
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=java,cpp,c,js,html,css" />
 </p>
 
 ### Frameworks & Databases
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,firebase,vercel" />
 </p>
 
 ### Design & Creative Tools
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=figma" />
 <img src="https://img.shields.io/badge/Framer-000000?style=for-the-badge&logo=framer&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
